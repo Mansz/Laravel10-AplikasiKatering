@@ -22,12 +22,7 @@ Dashboard: Analisis data penjualan dan performa katering untuk merchant.
 Implementasi autentikasi dan otorisasi untuk melindungi data sensitif.
 Validasi input untuk mencegah serangan seperti SQL Injection dan XSS.
 
-Rencana Implementasi
-Analisis Kebutuhan: Mengumpulkan informasi dari pengguna untuk memahami kebutuhan lebih dalam.
-Desain UI/UX: Membuat wireframe dan prototipe antarmuka pengguna.
-Pengembangan: Membangun frontend dan backend secara bersamaan.
-Pengujian: Melakukan pengujian fungsional dan keamanan.
-Peluncuran: Menyebarkan aplikasi dan menyediakan dukungan pengguna.
+
 
 Notes :
 Silahkan untuk pengembangan kembali sesuai kebutuhan aplikasi Anda
